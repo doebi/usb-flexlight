@@ -8,6 +8,8 @@ You know those nasty USB-Ventilators, which come with some LEDs on them to light
 
 ## Pictures
 
+![](http://i.imgur.com/lSP7aJL.jpg)
+
 ![](http://i.imgur.com/qsYrqPU.jpg)
 
 ## Thanks
